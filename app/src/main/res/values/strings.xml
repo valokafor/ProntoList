@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LazyColumn Example</string>
+    <string name="reminder_on">Reminder On!</string>
+</resources>
